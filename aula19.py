@@ -1,0 +1,6 @@
+print(1234)
+print("Lucas Lima")
+print('Lucas Lima')
+print('Lucas \'Lima')
+print(r'Lucas \'Lima')
+print(1, 'Lucas "Lima"')
